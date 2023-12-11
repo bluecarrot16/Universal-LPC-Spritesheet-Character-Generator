@@ -1,0 +1,14 @@
+{
+  "name" : "Drum",
+  "type_name" : "instrument",
+  "layer_1": {
+    "zPos": 150,
+    "male": "tools/slash/foreground/",
+    "muscular": "tools/slash/foreground/",
+    "female": "tools/slash/foreground/",
+    "pregnant": "tools/slash/foreground/"
+  },
+  "variants": [
+    "drum"
+  ]
+}

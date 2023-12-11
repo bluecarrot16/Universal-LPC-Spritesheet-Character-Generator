@@ -1,0 +1,14 @@
+{
+  "name" : "Flute",
+  "type_name" : "instrument",
+  "layer_1": {
+    "zPos": 150,
+    "male": "tools/thrust/foreground/",
+    "muscular": "tools/thrust/foreground/",
+    "female": "tools/thrust/foreground/",
+    "pregnant": "tools/thrust/foreground/"
+  },
+  "variants": [
+    "flute"
+  ]
+}
